@@ -1,1 +1,1 @@
-# user_authentication
+This program uses a salted-hash method for password management.
